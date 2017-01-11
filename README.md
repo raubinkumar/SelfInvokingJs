@@ -1,0 +1,2 @@
+# SelfInvokingJs
+Self invoking javascript
